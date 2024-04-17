@@ -12,6 +12,7 @@ namespace Homework1
         {
             Console.WriteLine("Hello world");
             Console.ReadKey();
+            // some code
         }
     }
 }
